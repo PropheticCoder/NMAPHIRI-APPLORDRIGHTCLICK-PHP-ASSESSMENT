@@ -12,9 +12,10 @@ Steps
 6. Change database credentials in "src/v1/Config/db/db.class.php"
 7. Run App
 
-# TESTING AND USAGE
-API Usage For Postman Testing Has Been Provided In HOST/API/api_usage.php
+API Usage For Postman Testing Has Been Provided In Below And In HOST/API/api_usage.php
 Contact me on 0740120033 For Any Assistance If You Come Accross Issues.
+
+# TESTING AND USAGE
 This API Was Tested Using Postman API Testing Tool
 Make Sure To Send Requests With Appropriate REQUEST_METHOD Or The API Wont Work.
 Alternately Refer To UI/private/request_handlers/classes/server2server.php For The curl code used to call this API
