@@ -1,0 +1,31 @@
+@media (min-width: 300px) {
+  #user_details {
+    margin-top: 0px;
+  }
+}
+
+@media (min-width: 576px) {
+  #user_details {
+    margin-top: -3px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #user_details {
+    margin-top: -29px;
+  }
+}
+
+@media (min-width: 300px) {
+  #form {
+    width: 353px;
+  }
+}
+
+@media (min-width: 576px) {
+  #form {
+    width: 381px;
+    margin: auto;
+  }
+}
+

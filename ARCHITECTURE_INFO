@@ -1,0 +1,11 @@
+PHPVERSION: 7.4.2
+ARCHITECTURE NAME: ARCHITECTURE CUSTOM CREATED FOR RECRUIITMENT TEST
+DETAILS:
+The architecture is based on the clean code architecture, it serves to move away core processes from the public domain,
+By parsing data into the core classes which are the entities of the API.
+
+DATA FLOW: UI->ENDPOINT->CONTROLLER->ADAPATER->ENTITY->ADAPATER->CONTROLLER->ENDPOINT->UI.
+
+Take not the core is the entities.
+
+This Architecture Allows Us To Get A Project Ready Quicker As The Class Setup Is Not Complicated
