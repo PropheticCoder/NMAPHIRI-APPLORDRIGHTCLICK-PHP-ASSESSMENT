@@ -1,7 +1,7 @@
 Making Sure That All Hosts Match With The Current Host Of The App Will Avoid Redirection Issues When The Enviroment Of App Changes
 Suggesting that you host the app in http://localhost/task_manager as this is the host I currently have on my machine.
 
-Setup
+Steps
 
 1. Change host in "UI/private/request_handlers/classes/request_handler.php"[This Will Change The Host Of The API]
 2. Change host in "UI/private/host.php		[This Will Change The Host Where The App Redirects Around]
